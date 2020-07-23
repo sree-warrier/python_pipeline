@@ -1,5 +1,4 @@
 import base64
-import os
 import git
 import boto3
 import docker
